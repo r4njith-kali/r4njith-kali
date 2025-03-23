@@ -1,5 +1,5 @@
 <!-- Banner Image (Replace the URL with your own banner image) -->
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 # Hi, I'm Ranjith! 👋
 
