@@ -2,7 +2,7 @@
 
 **I'm Ranjith**  
 Undergrad at the **National University of Singapore**.  
-Pursuing a major in **Mechanical Engineering** & **Data Science**.  
+Majoring in **Mechanical Engineering** & **Data Science**.  
 Specializing in **AI/ML** & **Data Science**.
 
 ---
