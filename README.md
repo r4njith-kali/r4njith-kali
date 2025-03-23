@@ -1,5 +1,5 @@
 <!-- Banner Image (Replace the URL with your own banner image) -->
-![Banner](https://yourdomain.com/path-to-banner.png)
+![Header](./your-header-image-name.png)
 
 # Hi, I'm Ranjith! 👋
 
