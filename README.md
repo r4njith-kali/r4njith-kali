@@ -7,7 +7,7 @@ Specializing in **AI/ML** & **Data Science**.
 
 ---
 
-## tech stack
+# tech stack
 
 <!-- 
   Below is an example of grouping badges by category.
