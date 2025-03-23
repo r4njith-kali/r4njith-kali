@@ -26,7 +26,7 @@ Specializing in **Robotics** & **Software Engineering**.
 
 ## techStack
 
-languages and tools
+###languages and tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -39,7 +39,7 @@ languages and tools
 
 ---
 
-libraries
+###libraries
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -52,7 +52,7 @@ libraries
 
 ---
 
-frameworks
+###frameworks
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![UIKit](https://img.shields.io/badge/UIKit-%23F05138.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
 [![JavaFX](https://img.shields.io/badge/JavaFX-17A2B8?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
@@ -61,7 +61,7 @@ frameworks
 
 ---
 
-bigdata and db
+###bigdata and db
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -104,7 +104,7 @@ bigdata and db
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=r4njith-kali&repo=stock-market-prediction&theme=github_dark" alt="Stock price forecasting model" />
         </a>
       </p>
-      <p align="center">Modelling price of stock based using LSTM based on past data from yFinance</p>
+      <p align="center">Modelling price of stock using LSTM</p>
     </td>
   </tr>
 </table>
