@@ -24,9 +24,9 @@ Specializing in **Robotics** & **Software Engineering**.
   Feel free to add/remove or rearrange these to match your actual tech stack.
 -->
 
-## Tech Stack
+## techStack
 
-### 1. Programming Languages & Tools
+languages and tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -39,7 +39,7 @@ Specializing in **Robotics** & **Software Engineering**.
 
 ---
 
-### 2. Libraries
+libraries
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -52,7 +52,7 @@ Specializing in **Robotics** & **Software Engineering**.
 
 ---
 
-### 3. Frameworks
+frameworks
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![UIKit](https://img.shields.io/badge/UIKit-%23F05138.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
 [![JavaFX](https://img.shields.io/badge/JavaFX-17A2B8?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
@@ -61,7 +61,7 @@ Specializing in **Robotics** & **Software Engineering**.
 
 ---
 
-### 4. Big Data
+bigdata and db
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -70,23 +70,6 @@ Specializing in **Robotics** & **Software Engineering**.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ---
-
-## some stats
-
-<!-- 
-  Example: a table to display custom stats (replace with actual values or remove rows you don't need).
-  The "Top" percentage or star count might come from third-party data. 
--->
-
-| **Total Stars Earned** | **Total Commits (2023)** | **Merged PRs** | **Issues** | **Repo Popularity** |
-| :--------------------: | :-----------------------: | :------------: | :--------: | :------------------: |
-| 42                     | 250                       | 15             | 8          | Top 51.8%           |
-
-<!-- 
-  Optionally, include GitHub stats / streak cards. 
-  For dark theme: add `&theme=dark` or `&theme=github_dark` 
-  (choose from: https://github-readme-streak-stats.herokuapp.com/demo/)
--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r4njith-kali&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180" />
@@ -106,22 +89,22 @@ Specializing in **Robotics** & **Software Engineering**.
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">TowerForge</h3>
+      <h3 align="center">sentiment analysis</h3>
       <p align="center">
-        <a href="https://github.com/r4njith-kali/TowerForge">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r4njith-kali&repo=TowerForge&theme=github_dark" alt="TowerForge Repo" />
+        <a href="https://github.com/r4njith-kali/sentiment_analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r4njith-kali&repo=sentiment_analysis&theme=github_dark" alt="sentiment_analysis" />
         </a>
       </p>
-      <p align="center">CS3217 Group Project - TowerForge</p>
+      <p align="center">Personal Project</p>
     </td>
     <td width="50%">
-      <h3 align="center">artificial-consciousness</h3>
+      <h3 align="center">Stock Price Forecasting Model</h3>
       <p align="center">
-        <a href="https://github.com/r4njith-kali/artificial-consciousness">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r4njith-kali&repo=artificial-consciousness&theme=github_dark" alt="Artificial Consciousness Repo" />
+        <a href="https://github.com/r4njith-kali/stock-market-prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=r4njith-kali&repo=stock-market-prediction&theme=github_dark" alt="Stock price forecasting model" />
         </a>
       </p>
-      <p align="center">An exploration of Artificial Consciousness</p>
+      <p align="center">Modelling price of stock based using LSTM based on past data from yFinance</p>
     </td>
   </tr>
 </table>
